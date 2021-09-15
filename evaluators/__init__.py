@@ -1,0 +1,7 @@
+
+
+
+
+from evaluators.funsdboxdetect_eval import FUNSDBoxDetect_eval, FormsBoxDetect_eval
+from evaluators.funsdgraphpair_eval import FUNSDGraphPair_eval
+from evaluators.othergraphpair_eval import FormsGraphPair_eval
