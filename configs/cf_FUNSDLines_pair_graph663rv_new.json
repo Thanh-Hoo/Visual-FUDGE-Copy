@@ -6,7 +6,7 @@
     "override": true,
     "data_loader": {
         "data_set_name": "FUNSDGraphPair",
-        "data_dir": "../data/FUNSD",
+        "data_dir": "./dataset",
         "batch_size": 1,
         "shuffle": true,
         "num_workers": 3,

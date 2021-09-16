@@ -6,7 +6,7 @@
     "override": true,
     "data_loader": {
         "data_set_name": "FUNSDBoxDetect",
-        "data_dir": "/content/FUDGE/dataset",
+        "data_dir": "./dataset",
         "batch_size": 8,
         "shuffle": true,
         "num_workers": 4,
