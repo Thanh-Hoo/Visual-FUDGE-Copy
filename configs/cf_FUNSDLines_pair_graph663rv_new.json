@@ -9,7 +9,7 @@
         "data_dir": "./dataset",
         "batch_size": 1,
         "shuffle": true,
-        "num_workers": 3,
+        "num_workers": 4,
         "split_to_lines": true,
         "crop_to_page":false,
         "color":false,
